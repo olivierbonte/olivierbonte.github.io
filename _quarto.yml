@@ -9,6 +9,9 @@ website:
       - href: about.qmd
         text: About
       - CV.qmd
+  page-footer: 
+    left: "[Olivier Bonte](https://olivierbonte.github.io)  &copy; <script>document.write(new Date().getFullYear())</script>"
+    center: "Powered by [{{< iconify simple-icons:quarto >}} Quarto](https://quarto.org)"
 
 
 format:
