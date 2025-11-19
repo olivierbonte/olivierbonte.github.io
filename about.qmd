@@ -1,7 +1,7 @@
 ---
 title: "Olivier Bonte"
 about:
-  template: trestles
+  template: solana
   image: data/figures/ugentcard.jpg
   links:
     - icon: github
@@ -19,4 +19,12 @@ about:
       href: https://www.ugent.be/bw/environment/en/research/h-cel
 ---
 
+I am a PhD student at Ghent University in the [H-CEL research group](https://www.ugent.be/bw/environment/en/research/h-cel), under supervision of Prof. Niko Verhoest and Prof. Diego Miralles. [My current research](https://github.com/olivierbonte/DifferentiableEvaporation) focusses on hybrid modelling of land surface processes, specifically evaporation, where machine learning techniques are combined with process based models. 
 
+More generally, I am interested in:
+
+- Hydrology and water resources engineering
+- Scientific computing and its application in environmental sciences
+- Open source software development and reproducible research, specifically using [Julia](https://julialang.org/) and Python
+
+You can reach me via email at [olivier.bonte@ugent.be](mailto:olivier.bonte@ugent.be).
