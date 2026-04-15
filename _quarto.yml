@@ -6,7 +6,7 @@ website:
   navbar:
     search: true
     left:
-      - href: about.qmd
+      - href: index.qmd
         text: About
       - CV.qmd
   page-footer: 
