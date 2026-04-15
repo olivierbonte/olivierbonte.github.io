@@ -1,7 +1,7 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Olivier Bonte",
     "section": "",
     "text": "I am a PhD student at Ghent University in the H-CEL research group, under supervision of Prof. Niko Verhoest and Prof. Diego Miralles. My current research focusses on hybrid modelling of land surface processes, specifically evaporation, where machine learning techniques are combined with process based models.\nMore generally, I am interested in:\n\nHydrology and water resources engineering\nScientific computing and its application in environmental sciences\nOpen source software development and reproducible research, specifically using Julia and Python\n\nYou can reach me via email at olivier.bonte@ugent.be."
